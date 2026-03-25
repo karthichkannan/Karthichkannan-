@@ -1,6 +1,6 @@
-# My Project 🚀
+# My Project 
 
-## 📌 Description
+##  Description
 This is a simple project created to practice GitHub, file management, and basic development skills.
 
 ## 🛠️ Technologies Used
@@ -8,12 +8,12 @@ This is a simple project created to practice GitHub, file management, and basic 
 - VS Code
 - Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 - README.md → Project documentation
 - main.txt → Sample text file
 - (Add more files as needed)
 
-## ▶️ How to Use
+##  How to Use
 1. Clone this repository:
    git clone https://github.com/your-username/your-repo-name.git
 
@@ -21,14 +21,14 @@ This is a simple project created to practice GitHub, file management, and basic 
 
 3. Run or view the files
 
-## 🎯 Purpose
+##  Purpose
 This project is created for learning:
 - GitHub repository creation
 - File handling
 - Basic project structure
 
-## 🙌 Author
+## Author
 - Your Name
 
-## 📌 Note
+## Note
 This is a beginner-level project. Improvements will be added in future.
